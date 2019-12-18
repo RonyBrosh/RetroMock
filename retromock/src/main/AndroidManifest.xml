@@ -1,2 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ronybrosh.retromock" />
+    package="com.ronybrosh.retromock">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
+
